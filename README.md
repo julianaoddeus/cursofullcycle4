@@ -1,6 +1,6 @@
-# Curso de APIs: Design, Rest, gRPC e API Gateway
+# Curso Fullcycle
 
-- Exemplo de api freestyle
-- RMM
-- Níveis de maturidade
+- Docker
+- API Rest
+
   
